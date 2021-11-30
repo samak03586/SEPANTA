@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @samak03586
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Creating a safe and secure environment for money transfers in shipping, land and rail transport companies
 
-<!---
-samak03586/samak03586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Innovation in creating digital money and digital currency in a specific industry where a specific brand can be used for related work.
+
+-3-Replacement of old payment methods such as Swift and interbank remittances
